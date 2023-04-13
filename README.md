@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 [![css](https://img.shields.io/badge/css-1DA1F2?style=for-the-badge&logo=CSS3&&labelColor=000&logoColor=white)]()
 [![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&labelColor=000&logoColor=white)]()
 [![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
+[![reactjs](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&labelColor=000&style=for-the-badge)]()
 [![reactjs](https://img.shields.io/badge/ReactJs-0088cc?logo=react&logoColor=white&labelColor=000&style=for-the-badge)]()
 #### Backend Development
 [![nodejs](https://img.shields.io/badge/nodejs-428f42?logo=node.js&logoColor=white&labelColor=000&style=for-the-badge)]()
