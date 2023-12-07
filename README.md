@@ -27,6 +27,7 @@ img of program
 #### Backend Development
 [![nodejs](https://img.shields.io/badge/nodejs-428f42?logo=node.js&logoColor=white&labelColor=000&style=for-the-badge)]()
 [![oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&labelColor=000&style=for-the-badge)]()
+[![mysql](https://img.shields.io/badge/MySQL-00000F?logo=Mysql&logoColor=white&labelColor=000&style=for-the-badge)]()
 [![moongose](https://img.shields.io/badge/Mongodb-35733f?logo=mongodb&logoColor=white&labelColor=000&style=for-the-badge)]()
 
 #### Tools
