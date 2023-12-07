@@ -23,8 +23,6 @@ img of program
 [![angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&labelColor=000&style=for-the-badge)]()
 [![reactjs](https://img.shields.io/badge/ReactJs-0088cc?logo=react&logoColor=white&labelColor=000&style=for-the-badge)]()
 
-[![C#](https://img.shields.io/badge/c%23-%23239120?logo=MicrosoftC#&logoColor=white&labelColor=000&style=for-the-badge)]()
-
 
 #### Backend Development
 [![nodejs](https://img.shields.io/badge/nodejs-428f42?logo=node.js&logoColor=white&labelColor=000&style=for-the-badge)]()
